@@ -1,0 +1,5 @@
+@include('yang-dibungkus.head')
+@include('yang-dibungkus.header')
+@include('yang-dibungkus.sidebar')
+@include('yang-dibungkus.content')
+@include('yang-dibungkus.footer')
